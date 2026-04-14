@@ -1,7 +1,7 @@
-PWD /home/samuel/Documentos/Doctorado/Thesis/elsarticle
+PWD /home/samuel/Documentos/PostDoc/conferences & articles/2025 elsarticle
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/samuel/Documentos/Doctorado/Thesis/elsarticle/elsarticle-template-num-names.tex
+INPUT /home/samuel/Documentos/PostDoc/conferences & articles/2025 elsarticle/elsarticle-template-num-names.tex
 OUTPUT elsarticle-template-num-names.log
 INPUT ./elsarticle.cls
 INPUT elsarticle.cls
